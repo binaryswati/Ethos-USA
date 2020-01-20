@@ -1,0 +1,20 @@
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\obj\Debug\Repository.Pattern.csprojResolveAssemblyReference.cache
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\obj\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\obj\Debug\Repository.Pattern.csprojResolveAssemblyReference.cache
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\obj\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
+C:\Spectrum\SourceCode\Ethos USA\PrecisionXtract_US\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+C:\Spectrum\SourceCode\Ethos USA\PrecisionXtract_US\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+C:\Spectrum\SourceCode\Ethos USA\PrecisionXtract_US\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+C:\Spectrum\SourceCode\Ethos USA\PrecisionXtract_US\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+C:\Spectrum\SourceCode\Ethos USA\PrecisionXtract_US\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
+C:\Spectrum\SourceCode\Ethos USA\PrecisionXtract_US\Repository.Pattern\obj\Debug\Repository.Pattern.csprojAssemblyReference.cache

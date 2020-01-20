@@ -1,0 +1,16 @@
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Pal.Emailing\bin\Debug\Pal.Emailing.dll
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Pal.Emailing\bin\Debug\Pal.Emailing.pdb
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Pal.Emailing\obj\Debug\Pal.Emailing.csproj.CoreCompileInputs.cache
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Pal.Emailing\obj\Debug\Pal.Emailing.dll
+F:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Pal.Emailing\obj\Debug\Pal.Emailing.pdb
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Pal.Emailing\bin\Debug\Pal.Emailing.dll
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Pal.Emailing\bin\Debug\Pal.Emailing.pdb
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Pal.Emailing\obj\Debug\Pal.Emailing.csproj.CoreCompileInputs.cache
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Pal.Emailing\obj\Debug\Pal.Emailing.dll
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Pal.Emailing\obj\Debug\Pal.Emailing.pdb
+I:\Project\Clients\Spectrum\Precision\USA\PrecisionXtract_US\Pal.Emailing\obj\Debug\Pal.Emailing.csprojResolveAssemblyReference.cache
+C:\Spectrum\SourceCode\Ethos USA\PrecisionXtract_US\Pal.Emailing\bin\Debug\Pal.Emailing.dll
+C:\Spectrum\SourceCode\Ethos USA\PrecisionXtract_US\Pal.Emailing\bin\Debug\Pal.Emailing.pdb
+C:\Spectrum\SourceCode\Ethos USA\PrecisionXtract_US\Pal.Emailing\obj\Debug\Pal.Emailing.csprojAssemblyReference.cache
+C:\Spectrum\SourceCode\Ethos USA\PrecisionXtract_US\Pal.Emailing\obj\Debug\Pal.Emailing.dll
+C:\Spectrum\SourceCode\Ethos USA\PrecisionXtract_US\Pal.Emailing\obj\Debug\Pal.Emailing.pdb
